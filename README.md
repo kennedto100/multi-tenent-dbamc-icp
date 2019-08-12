@@ -1,4 +1,3 @@
-# multitenant-dbamc-on-icp
 <H1>Overview</H1>
 
 This guide describes how multiple DBAMC users may simultaneous use an ICP installation that contains a DBAMC installation.
