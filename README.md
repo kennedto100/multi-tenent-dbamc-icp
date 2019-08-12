@@ -151,5 +151,3 @@ cat /root/env1 on you data server to get some of the BAI values.
 <li>For IBM Content Platform and BM Business Automation Navigator, expand each enter user data server IP and the password</li>
   <li>For ODM, Change Server name to user data server IP, set the username to db2inst1 and enter the password</li>
 </UL>
-
-<H2> UnDeploy Products</H2>
